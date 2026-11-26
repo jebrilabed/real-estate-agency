@@ -8,6 +8,13 @@
       "when": 1795098559749,
       "tag": "0000_marketplace_foundation",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1795359614669,
+      "tag": "0001_commission_payment_integrity",
+      "breakpoints": true
     }
   ]
 }
